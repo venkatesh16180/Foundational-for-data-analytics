@@ -19,4 +19,4 @@ You can find example queries, scripts, and reports that demonstrate various data
 
 We can do this Current and Future Students. Lets make a difference no matter the size of it. Small or Big.
 
-P.S: You might find that some of the above sentences look like they were written by a 4th grader and some by a english major. I will say this all the sentences ending with '*' are written by yours truly and no I am not an English Major.
+P.S: You might find that some of the above sentences look like they were written by a 4th grader and some by a english major. I will say this all the sentences ending with '*' are written by Not not ~yours truly and no I am not an English Major.
