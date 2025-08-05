@@ -14,9 +14,9 @@ This repository includes resources and projects related to the following technol
 - **Python**: Data analysis and automation using libraries such as Pandas, NumPy, and Matplotlib.*
 - **Power BI**: Business intelligence and data visualization.*
 
-- Each technology has its own folder containing relevant resources, tutorials, and code along with comment.
-- You can find example queries, scripts, and reports that demonstrate various data analysis techniques.
+Each technology has its own folder containing relevant resources, tutorials, and code along with comment.
+You can find example queries, scripts, and reports that demonstrate various data analysis techniques.
 
-- We can do this Current and Future Students. Lets make a difference no matter the size of it. Small or Big.
+We can do this Current and Future Students. Lets make a difference no matter the size of it. Small or Big.
 
-- 
+P.S: You might find that some of the above sentences look like they were written by a 4th grader and some by a english major. I will say this all the sentences ending with '*' are written by yours truly and no I am not an English Major.
