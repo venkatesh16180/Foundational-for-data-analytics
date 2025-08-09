@@ -1,3 +1,6 @@
+# Dataset:
+https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
 # Data Cleaning Project
 
 This repository contains SQL code for a data cleaning project focused on a dataset related to layoffs. The goal of this project is to clean and standardize the data to ensure its accuracy and usability for further analysis.
